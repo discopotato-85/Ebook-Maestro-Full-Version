@@ -243,4 +243,4 @@ This repository serves as the official landing page for eBook Maestro. The softw
 **Get the most recent version of eBook Maestro today!**
 
 ---
-**Last updated:** 2026-09-08 18:24:01 UTC
+**Last updated:** 2026-09-08 21:41:07 UTC
